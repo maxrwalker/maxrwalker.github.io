@@ -1,0 +1,21 @@
+title: Max Walker's Blog
+author: maxrwalker
+theme: plainwhite
+show_excerpts: true
+
+sass:
+  sass_dir: _sass
+
+plainwhite:
+  name: Max Walker
+  tagline: Technology Architect
+  date_format: "%-d %b, %Y"
+  sitemap: true
+  search: true
+  portfolio_image: "assets/x.png"
+  html_lang: "en" 
+
+  social_links:
+    #twitter: maxrwalker
+    github: maxrwalker
+    linkedIn: in/max-walker-6665a0 # format: locale/username
